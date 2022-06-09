@@ -314,7 +314,7 @@ a:hover {
 
 /* RESPONSIVIDADE */
 
-@media(max-width:896px) {
+@media(max-width:900px) {
     .social-media {
         display: flex;
         flex-direction: column;
